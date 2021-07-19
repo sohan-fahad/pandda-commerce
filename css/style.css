@@ -1,0 +1,41 @@
+.slider {
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.cat1, .cat2 , .cat3 {
+    color: #fff;
+}
+
+.cat1 {
+    background-color: orange;
+    border-radius: 5px;
+}
+.cat2 {
+    background-color: orchid;
+    border-radius: 5px;
+}
+.cat3 {
+    background-color: blue;
+    border-radius: 5px;
+
+}
+
+.subscriber {
+    height: 300px;
+    background-color: #feeae9;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
